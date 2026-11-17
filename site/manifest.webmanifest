@@ -1,0 +1,16 @@
+{
+  "name": "Réseaux — outil d'étude",
+  "short_name": "Réseaux",
+  "description": "NAT, DHCP, OSPF, Cisco IOS : cours, cartes, quiz et simulateurs.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B0C0B",
+  "theme_color": "#0B0C0B",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon-maskable.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
